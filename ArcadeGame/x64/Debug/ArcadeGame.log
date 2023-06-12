@@ -1,0 +1,6 @@
+﻿  game.cpp
+C:\Users\Vicky\Desktop\cpp\why\ArcadeGame\ArcadeGame\game.cpp(214,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vicky\Desktop\cpp\why\ArcadeGame\ArcadeGame\game.cpp(289,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vicky\Desktop\cpp\why\ArcadeGame\ArcadeGame\game.cpp(328,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vicky\Desktop\cpp\why\ArcadeGame\ArcadeGame\game.cpp(328,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ArcadeGame.vcxproj -> C:\Users\Vicky\Desktop\cpp\why\ArcadeGame\bin\ArcadeGamed.exe

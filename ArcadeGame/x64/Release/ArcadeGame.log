@@ -1,0 +1,19 @@
+﻿  Alien.cpp
+  bullet.cpp
+  Enemy.cpp
+  game.cpp
+C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\ArcadeGame\game.cpp(214,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\ArcadeGame\game.cpp(289,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\ArcadeGame\game.cpp(328,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\ArcadeGame\game.cpp(328,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gameobject.cpp
+  main.cpp
+  player.cpp
+C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\ArcadeGame\player.cpp(25,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  util.cpp
+  Generating code
+  263 of 268 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ArcadeGame.vcxproj -> C:\Users\Vicky\Desktop\cpp\test\ArcadeGame\bin\ArcadeGame.exe
