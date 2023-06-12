@@ -8,4 +8,4 @@ Using (https://github.com/cgaueb/sgg)
 
 I do not own any of the assets.
 
-Made using Visual Studio 2017. The code still works on Visual Studio 2022.
+To run the game go to the bin folder and run the file ArcadeGame.bat
